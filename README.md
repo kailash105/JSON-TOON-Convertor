@@ -1,4 +1,6 @@
 # 🧠 LLM Prompt Optimizer — JSON ➜ TOON Converter
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
+
 
 LLM Prompt Optimizer is a Python-based tool that converts traditional JSON data into **TOON (Token-Oriented Object Notation)** — a compact, token-efficient format designed for Large Language Models (LLMs).  
 It helps developers minimize token usage and API costs when communicating with AI systems.
