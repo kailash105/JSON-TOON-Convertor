@@ -10,7 +10,7 @@ st.title("🧠 LLM Prompt Optimizer")
 st.caption("Convert JSON prompts into TOON format and save real money 💸")
 
 # --- Backend URL ---
-BACKEND_URL = "http://127.0.0.1:8000/optimize"
+BACKEND_URL = "https://json-toon-convertor.onrender.com/optimize"
 
 # --- Accurate OpenAI Pricing (per 1K tokens) ---
 PRICING = {
