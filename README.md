@@ -44,7 +44,7 @@ This project is protected under limited-use permissions.
 Usage, modification, or redistribution of this tool — including its source code, algorithms, or TOON conversion logic — **requires explicit written permission** from the creator.
 
 To request permission or discuss collaborations, please contact:  
-📩 **kailash105** (GitHub) | **Email available upon request**
+📩 **kailash105** (GitHub) | **kailashkbc2@gmail.com**
 
 ---
 
